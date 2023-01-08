@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/william">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william091983&layout=compact&langs_count=7&theme=blue"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=william091983&show_icons=true&theme=blue&amp&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william091983&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=william091983&show_icons=true&theme=tokyonight&amp&include_all_commits=true&count_private=true"/>
+</div>
+  
+<div>
+   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
