@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá sou William.... 👋
 
 <!--
 **william091983/william091983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+<a href="https://github.com/william">
+<!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william&layout=compact&langs_count=7&theme=blue"/>-->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=william091983&show_icons=true&theme=blue&amp&include_all_commits=true&count_private=true"/>
+</div>
