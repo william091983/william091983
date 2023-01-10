@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <div>
 <a href="https://github.com/william">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william091983&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -22,5 +23,33 @@ Here are some ideas to get you started:
 </div>
   
 <div>
+  <br /><font color="blue">Linguagem: <br /></font> 
    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
 </div>
+
+<div>
+ <br /><font color="blue">Plataformas: <br /></font> 
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div>
+
+<div>
+<br /><font color="blue">Design: <br /></font>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</div>
+
+<div>
+<br /><font color="blue">Educação: <br /></font>
+<img src="https://www.univem.edu.br/img/site/logo.png" width="9%"/>
+<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
+</div>
+
+<div>
+<br /><font color="blue">Banco de Dados: <br /></font>
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</div>
+
