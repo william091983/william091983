@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 
 
-<!--<div>
+<div>
 <a href="https://github-readme-stats.vercel.app/api?username=william091983&show_icons=true&theme=radical"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william091983&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=william091983&show_icons=true&theme=tokyonight&amp&include_all_commits=true&count_private=true"/>
-</div>-->
+</div>
   
 <div>
   <br /><font color="blue">Linguagem: <br /></font> 
