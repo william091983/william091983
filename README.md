@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 <br /><font color="blue">Educação: <br /></font>
 <img src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/20/2022/11/fatec_garca.png" width="9%" />
 <img src="https://www.univem.edu.br/img/site/logo.png" width="9%"/>
-<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+<!--<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
-</div>
+</div>-->
 
 <div>
 <br /><font color="blue">Banco de Dados: <br /></font>
