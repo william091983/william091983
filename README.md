@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 <div>
 <br /><font color="blue">Educação: <br /></font>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffatecgarca.cps.sp.gov.br%2Fidentidade-visual%2F&psig=AOvVaw3e1ba-MNyVLs4zpJcadOH_&ust=1701522899920000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJjmw_Ko7oIDFQAAAAAdAAAAABAE" width="95% />
 <img src="https://www.univem.edu.br/img/site/logo.png" width="9%"/>
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
